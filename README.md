@@ -1,2 +1,2 @@
-# Datatypes examples
+# Data types examples
 
